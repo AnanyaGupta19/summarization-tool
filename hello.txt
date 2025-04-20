@@ -1,0 +1,5 @@
+Neural networks have demonstrated remarkable capabilities in various machine learning tasks. Recent advances in transformer architectures have particularly improved natural language processing applications such as text summarization, sentiment analysis, and machine translation. Despite their success, these models remain data-hungry and computationally expensive. To address these challenges, researchers have proposed lightweight models like DistilBERT and MobileBERT, which reduce size and inference time while maintaining competitive performance.
+
+Future work includes optimizing training pipelines and further compressing models for deployment in low-resource environments.
+
+Natural Language Processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret, and manipulate human language. Together, these technologies enable computers to process human language in the form of text or voice data and to 'understand' its full meaning, complete with the speaker or writer's intent and sentiment.
