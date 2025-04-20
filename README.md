@@ -37,4 +37,4 @@ docker run -p 8501:8501 summarizer-app
 ```
 
 ## Created By
-Ananya
+Ananya Gupta
